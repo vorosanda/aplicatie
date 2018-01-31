@@ -6,7 +6,8 @@ MIT License
 
 The mobile app that displays current date and time, uploads a video from the net from an address, uses sensors for voice and camera recognition, uses sensors for location data (longitude, latitude and geographic map), a user opinion form to application and sensor for accelerometer sensors.
 About:
-Created to be used in miscellaneous  domains for information and opinions.The source code is proiect.html
+Created to be used in miscellaneous  domains for information and opinions.
+The source code is proiect.html
 Project 1 contains the following contents:
 1. Cam_project.js (javascript file)
 2. Canvas.js (javascript file)
